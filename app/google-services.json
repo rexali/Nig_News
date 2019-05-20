@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772254237366",
+    "firebase_url": "https://nignews-45128.firebaseio.com",
+    "project_id": "nignews-45128",
+    "storage_bucket": "nignews-45128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772254237366:android:e7a2dc170b797d38",
+        "android_client_info": {
+          "package_name": "com.ebizebiz.android.nignews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772254237366-fvelb20tcv9cmsl32je6qb0rss36gioa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebizebiz.android.nignews",
+            "certificate_hash": "ff925e63a61156d4c5570f301a8852f173b49da0"
+          }
+        },
+        {
+          "client_id": "772254237366-ms0iiqp2julafoacdskmpr1ccp7d10e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAI0rctFQamRRrNOw8FW5gMOGeL8yNiKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772254237366-ms0iiqp2julafoacdskmpr1ccp7d10e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

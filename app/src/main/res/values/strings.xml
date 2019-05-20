@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NewsClicks</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="hint_word">News…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">News not saved because it is empty.</string>
+    <string name="clear_all_data">Delete all</string>
+    <string name="delete_word_preamble">Deleting </string>
+    <string name="clear_data_toast_text">Clear the data now!</string>
+    <string name="no_word">No news</string>
+    <string name="unable_to_update">Unable to update the news</string>
+    <string name="edit_news_preamble">Start editing...</string>
+    <string name="delete_dialog_msg">Do you want to DELETE all the NEWS on this list FOREVER?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="custom_broadcast">Custom broadcast received</string>
+    <string name="custom_broadcast_share">Custom broadcast received share</string>
+    <string name="custom_broadcast_news">Custom broadcast received news</string>
+    <string name="unknown_action">unknown action</string>
+
+
+    <!--AdMob app ID: ca-app-pub-4192644863425218~7042535869-->
+    <!--AdMob Banner ad unit ID: ca-app-pub-4192644863425218/8675762290-->
+    <!--AdMob Interstitial Ad Unit ID :ca-app-pub-4192644863425218/3207813196 -->
+
+    <!--Sample AdMob Banner Ad unit ID: ca-app-pub-3940256099942544/6300978111-->
+    <!--Sample AdMob Interstitial Ad Unit ID: ca-app-pub-3940256099942544/1033173712-->
+    <!--Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713-->
+
+    <string name="AdMob_App_Id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="AdMob_Banner_Ad_Unit_Id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="AdMob_Interstitial_Ad_Unit_Id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="help_feedback">Swipe left or right to edit the news web address or name. click the red button below to add new news name and its web address</string>
+    <string name="ok_help_feedback">Ok</string>
+    <string name="feedback">If there is complain or any feature\nyou feel is missing or any special request
+    feel free to send us a message.\nWe shall get back to you within 24 hour.
+        \nPlease use this email address: alybaba2009 at gmail.com or click button below.
+    </string>
+    <string name="about">We created this app to provide quick access to latest news.\n\nDeveloper:\nAliyu Bello\nalybaba2009@gmail.com</string>
+</resources>
